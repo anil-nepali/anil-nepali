@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Anil Nepali
 
 <!--
-**anil-nepali/anil-nepali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anil-nepali/anil-nepali** A passionate Data Analyst who loves exploring data, discovering patterns, and developing logical solutions to real business problems by using code to turn raw data into clear, smart insights through visualization and storytelling. ✨
 
 Here are some ideas to get you started:
 
