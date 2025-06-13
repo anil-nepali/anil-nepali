@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Anil Nepali
 
-<!--
-**anil-nepali/anil-nepali** A passionate Data Analyst who loves exploring data, discovering patterns, and developing logical solutions to real business problems by using code to turn raw data into clear, smart insights through visualization and storytelling. ✨
+A passionate Data Analyst who loves exploring data, discovering patterns, and developing logical solutions to real business problems by using code to turn raw data into clear, smart insights through visualization and storytelling. ✨
 
+
+<!--
+**anil-nepali/anil-nepali** 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
