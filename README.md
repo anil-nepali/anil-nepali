@@ -1,8 +1,15 @@
-## Hi there 👋 Anil Nepali
+## Hi there 👋 I'm Anil Nepali!
 A passionate Data Analyst who loves exploring data, discovering patterns, and developing logical solutions to real business problems by using code to turn raw data into clear, smart insights through visualization and storytelling. ✨
 
 # 💫 About Me:
 💡 Love turning messy data into clear insights and story telling through data.<br>🔭 working on real-world EDA projects and building insightful dashboards using Power BI.<br> ∞   using statistics and logical thinking to make sense of data and find solutions.<br>🌱  currently learning to think analytically, communicate clearly, and understand business needs through data.
+
+# 🎯 Goals:
+- 📌 Strengthen my foundation in data analysis and statistics  
+- 🤖 Start learning Machine Learning and build small ML projects  
+- 🧠 Dive into Deep Learning to understand neural networks  
+- 🧬 Exploring AI concepts and real-world applications  
+- 🚀 Ultimately, become a skilled Data Scientist who can solve real-world problems with data
 
 
 # 💻 Tech Stack:
