@@ -2,7 +2,7 @@
 A passionate Data Analyst who loves exploring data, discovering patterns, and developing logical solutions to real business problems by using code to turn raw data into clear, smart insights through visualization and storytelling. ✨
 
 # 💫 About Me:
-💡 Love turning messy data into clear insights and telling through data.<br>🔭 working on real-world EDA projects and building insightful dashboards using Power BI.<br> ∞   using statistics and logical thinking to make sense of data and find solutions.<br>🌱  currently learning to think analytically, communicate clearly, and understand business needs through data.
+💡 Love turning messy data into clear insights and story telling through data.<br>🔭 working on real-world EDA projects and building insightful dashboards using Power BI.<br> ∞   using statistics and logical thinking to make sense of data and find solutions.<br>🌱  currently learning to think analytically, communicate clearly, and understand business needs through data.
 
 
 # 💻 Tech Stack:
